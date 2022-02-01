@@ -1,0 +1,10 @@
+c:\users\rhja\documents\visual studio 2012\Projects\TaquinVbnet\TaquinVbnet\bin\Debug\TaquinVbnet.exe.config
+c:\users\rhja\documents\visual studio 2012\Projects\TaquinVbnet\TaquinVbnet\bin\Debug\TaquinVbnet.exe
+c:\users\rhja\documents\visual studio 2012\Projects\TaquinVbnet\TaquinVbnet\bin\Debug\TaquinVbnet.pdb
+c:\users\rhja\documents\visual studio 2012\Projects\TaquinVbnet\TaquinVbnet\bin\Debug\TaquinVbnet.xml
+c:\users\rhja\documents\visual studio 2012\Projects\TaquinVbnet\TaquinVbnet\obj\Debug\TaquinVbnet.Form1.resources
+c:\users\rhja\documents\visual studio 2012\Projects\TaquinVbnet\TaquinVbnet\obj\Debug\TaquinVbnet.Resources.resources
+c:\users\rhja\documents\visual studio 2012\Projects\TaquinVbnet\TaquinVbnet\obj\Debug\TaquinVbnet.vbproj.GenerateResource.Cache
+c:\users\rhja\documents\visual studio 2012\Projects\TaquinVbnet\TaquinVbnet\obj\Debug\TaquinVbnet.exe
+c:\users\rhja\documents\visual studio 2012\Projects\TaquinVbnet\TaquinVbnet\obj\Debug\TaquinVbnet.xml
+c:\users\rhja\documents\visual studio 2012\Projects\TaquinVbnet\TaquinVbnet\obj\Debug\TaquinVbnet.pdb
